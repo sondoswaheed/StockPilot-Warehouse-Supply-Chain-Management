@@ -1,4 +1,4 @@
-# StockPilot API 📦🚀
+# StockPilot API 
 
 An enterprise-grade Warehouse Management System (WMS) Backend API engineered to streamline inventory tracking, procurement workflows, automated sales order fulfillments, and strict audit traceability.
 
